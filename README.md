@@ -1,4 +1,4 @@
-# Python
+# Quantitative-Investment-THU
 Tsinghua18级金融工程-《量化投资实践》课程的课前预习材料（html版笔记）
 
 包含3个部分：数理统计、python基础语法与科学计算、数据可视化技巧汇总
