@@ -2,7 +2,7 @@
 
 It's a pre-class document for <Introduction to Quantitative Finance, Tsinghua, Master Program Course> written by me (Alex Fang). It includes statistics, prob, programming (python), visualization tools, etc. **If you like it, please give me a star, thanks.**
 
-### Such as：
+### For Example：
 ![Image text](https://github.com/Neural-Finance/Quantitative-Investment-THU/blob/master/fig/1.PNG)
 
 ![Image text](https://github.com/Neural-Finance/Quantitative-Investment-THU/blob/master/fig/2.PNG)
